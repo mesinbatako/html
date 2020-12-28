@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mesin-batako-paving.netlify.app/sitemap.xml
